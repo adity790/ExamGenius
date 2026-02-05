@@ -9,7 +9,7 @@ from groq import Groq
 
 GROQ_API_KEY = "PASTE_YOUR_GROQ_API_KEY_HERE"
 
-client = Groq(api_key="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")
+client = Groq(api_key="API Key")
 
 
 # ================= MAIN CHATBOT FUNCTION =================
@@ -86,3 +86,4 @@ IMPORTANT:
     )
 
     return response.choices[0].message.content
+
