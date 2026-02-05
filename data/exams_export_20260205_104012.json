@@ -1,0 +1,12 @@
+{
+  "exams": [
+    {
+      "university_name": "University of Mumbai",
+      "exam_name": "MU-CET Engineering 2025",
+      "exam_level": "UG",
+      "eligible_from": 12,
+      "stream": "Science (PCM)",
+      "age_limit": NaN,
+      "exam_mode": "Online",
+      "scholarship": "Yes",
+      "last_date": 
